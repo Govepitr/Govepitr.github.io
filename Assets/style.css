@@ -277,6 +277,10 @@ span#dan{
 
 .card-title {
   font-weight: bolder;
+  font-family: 'Oswald', sans-serif;
+  font-size: x-large;
+  letter-spacing: 2.5px;
+  color: #333333;
 }
 .card-body {  
   font-weight:bolder;
